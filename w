@@ -50,3 +50,22 @@ x = int(input("Enter the first number: "))
 #         break
 
 
+# i = int(input("Enter a number: "))
+# sum_numbers = i
+# max_number = i
+# min_number = i
+
+# while i != 7:
+#     i = int(input("Enter a number: "))
+#     if i == 7:
+#         print("Good bye!")
+#         break
+#     sum_numbers += i
+#     if i > max_number:
+#         max_number = i
+#     elif i < min_number:
+#         min_number = i
+
+# print(f"Sum of entered numbers: {sum_numbers}")
+# print(f"Max number: {max_number}")
+# print(f"Min number: {min_number}")
