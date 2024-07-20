@@ -1,0 +1,295 @@
+<mxfile host="app.diagrams.net" modified="2024-07-20T11:35:31.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y1A52jjPNOzk4DulnMjQ" version="24.5.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1615" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="520" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="390" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="260" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="130" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-0" target="B3RDnDdU-C0EYkhqmuKv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-11" value="Заведіть автомобіль і перевірте показники на панелі приладів." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32.5" y="10" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-12" value="Перемкніть передачу і плавно почніть рух, натискаючи на педаль газу." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="150" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-16" value="Тримайте руки на кермі, стежте за дорогою і користуйтеся дзеркалами." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-17" value="&amp;nbsp;Вмикайте покажчики повороту, зменшуйте швидкість і плавно повертайте кермо." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-18" value="Плавно натискайте на педаль гальма і зупиніть автомобіль." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-19" value="Знайдіть місце, зупиніть авто, перемкніть передачу&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;в режим паркування і вимкніть двигун.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="650" width="202.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-20" target="B3RDnDdU-C0EYkhqmuKv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-21" target="B3RDnDdU-C0EYkhqmuKv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-23" target="B3RDnDdU-C0EYkhqmuKv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-25" target="B3RDnDdU-C0EYkhqmuKv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-27" target="B3RDnDdU-C0EYkhqmuKv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-31" target="B3RDnDdU-C0EYkhqmuKv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-33" target="B3RDnDdU-C0EYkhqmuKv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="170" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-35" target="B3RDnDdU-C0EYkhqmuKv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-37" target="B3RDnDdU-C0EYkhqmuKv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="330" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-39" target="B3RDnDdU-C0EYkhqmuKv-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="410" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-41" target="B3RDnDdU-C0EYkhqmuKv-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-43" target="B3RDnDdU-C0EYkhqmuKv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="130" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-45" target="B3RDnDdU-C0EYkhqmuKv-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="260" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-47" target="B3RDnDdU-C0EYkhqmuKv-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="390" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-49" target="B3RDnDdU-C0EYkhqmuKv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="520" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-53" value="Перегляньте відгуки, визначте бюджет і оберіть кілька варіантів." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-54" value="Виміряйте розмір поточних шин і визначте тип шин (шосейні, гірські тощо)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="10" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-55" value="Порівняйте ціни в місцевих магазинах та онлайн, оберіть найкращий варіант." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="270" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-56" value="Додайте до кошика, заповніть інформацію для доставки та підтвердіть замовлення." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-57" value="&lt;div&gt;Перевірте відповідність замовлених шин і їх стан.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-58" value="Встановіть нові шини самостійно або зверніться до веломайстерні." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="660" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-59" value="Пишіть регулярно, слідуючи плану, не переймаючись стилем або помилками." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-60" value="Перечитайте текст, виправте помилки, додайте або видаліть сцени, вдоскональте діалоги." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="420" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-61" value="Визначте головних і другорядних персонажів, їхні риси характеру та мотиви." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-62" value="Розбийте роман на глави та визначте ключові події в кожній." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="260" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-63" value="Складіть короткий план з початком, серединою та кінцем." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-64" value="Вирішіть, про що буде роман і в якому жанрі ви будете писати." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-68" target="B3RDnDdU-C0EYkhqmuKv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="490" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-70" target="B3RDnDdU-C0EYkhqmuKv-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="570" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-74" value="Дайте роман на прочитання іншим і врахуйте їхні відгуки." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-75" value="Внесіть останні корективи, перевірте на помилки." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="580" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-76" value="Вирішіть, як публікувати роман: самостійно чи через видавництво, підготуйте всі необхідні матеріали." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="660" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-80" target="B3RDnDdU-C0EYkhqmuKv-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-80" value="&lt;div&gt;&amp;nbsp;Зніміть старі двері.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Очистіть і вирівняйте отвір.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="880" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-81" target="B3RDnDdU-C0EYkhqmuKv-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-81" value="Вставте дверну коробку в отвір і вирівняйте її.&lt;br&gt;&amp;nbsp; &amp;nbsp;Закріпіть коробку клинками." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="960" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-83" target="B3RDnDdU-C0EYkhqmuKv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-83" value="Перевірте рівень коробки.&lt;br&gt;&amp;nbsp;Закріпіть коробку шурупами." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1040" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-85" target="B3RDnDdU-C0EYkhqmuKv-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-85" value="Прикріпіть петлі до дверей і коробки.&lt;br&gt;&amp;nbsp;Повісьте двері на петлі." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1119" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-88" target="B3RDnDdU-C0EYkhqmuKv-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-88" value="Перевірте, чи двері відкриваються і закриваються. Зафіксуйте коробку, видаливши клинки." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1200" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-90" value="Встановіть обрамлення навколо дверей.За потреби зафарбуйте або залакуйте." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-92" target="B3RDnDdU-C0EYkhqmuKv-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-92" value="Визначте ведучу ногу." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="880" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-93" target="B3RDnDdU-C0EYkhqmuKv-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-93" value="Розмістіть ноги правильно та тримайте баланс." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="960" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-95" target="B3RDnDdU-C0EYkhqmuKv-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-95" value="Відштовхніться задньою ногою та встаньте на дошку." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1040" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-97" target="B3RDnDdU-C0EYkhqmuKv-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-97" value="Нахиліть тіло в бік повороту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1120" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-99" target="B3RDnDdU-C0EYkhqmuKv-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-99" value="Зменшіть швидкість, нахиляючи задню частину дошки." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1200" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-103" value="Тримайте рівновагу, розподіляючи вагу по дошці." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-105" target="B3RDnDdU-C0EYkhqmuKv-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-105" value="Налийте гарячу воду з миючим засобом у раковину." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="880" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-106" target="B3RDnDdU-C0EYkhqmuKv-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-106" value="Вимийте посуд губкою або щіткою." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1010" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B3RDnDdU-C0EYkhqmuKv-108" target="B3RDnDdU-C0EYkhqmuKv-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-108" value="Полоскайте під чистою водою" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1140" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-110" value="Сушіть посуд рушником або на сушарці." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1270" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-112" value="&lt;div&gt;1. Запуск двигуна:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Заведіть автомобіль і перевірте показники на панелі приладів.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Початок руху:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перемкніть передачу і плавно почніть рух, натискаючи на педаль газу.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Керування на дорозі:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Тримайте руки на кермі, стежте за дорогою і користуйтеся дзеркалами.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Повороти та маневрування:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Вмикайте покажчики повороту, зменшуйте швидкість і плавно повертайте кермо.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Зупинка:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Плавно натискайте на педаль гальма і зупиніть автомобіль.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Паркування:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Знайдіть місце, зупиніть автомобіль, перемкніть передачу в режим паркування і вимкніть двигун.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1470" width="250" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-113" value="&lt;div&gt;1. Визначте необхідні параметри:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Виміряйте розмір поточних шин і визначте тип шин (шосейні, гірські тощо).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Дослідження та вибір:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перегляньте відгуки, визначте бюджет і оберіть кілька варіантів.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Перевірка наявності та покупка:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Порівняйте ціни в місцевих магазинах та онлайн, оберіть найкращий варіант.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Оформлення замовлення:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Додайте шини до кошика, заповніть інформацію для доставки та підтвердіть замовлення.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Отримання та перевірка:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перевірте відповідність замовлених шин і їх стан.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Встановлення шин:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Встановіть нові шини самостійно або зверніться до веломайстерні.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1460" width="250" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-114" value="1. Визначте ідею та жанр:&#xa;   - Вирішіть, про що буде роман і в якому жанрі ви будете писати.&#xa;&#xa;&#xa;2. Розробка сюжету:&#xa;   - Складіть короткий план з початком, серединою та кінцем.&#xa;&#xa;&#xa;3. Створення персонажів:&#xa;   - Визначте головних і другорядних персонажів, їхні риси характеру та мотиви.&#xa;&#xa;&#xa;4. Планування:&#xa;   - Розбийте роман на глави та визначте ключові події в кожній.&#xa;&#xa;&#xa;5. Написання чернетки:&#xa;   - Пишіть регулярно, слідуючи плану, не переймаючись стилем або помилками.&#xa;&#xa;&#xa;6. Редагування:&#xa;   - Перечитайте текст, виправте помилки, додайте або видаліть сцени, вдоскональте діалоги.&#xa;&#xa;&#xa;7. Зворотний зв&#39;язок:&#xa;   - Дайте роман на прочитання іншим і врахуйте їхні відгуки.&#xa;&#xa;&#xa;8. Остаточне редагування:&#xa;   - Внесіть останні корективи, перевірте на помилки.&#xa;&#xa;&#xa;9. Публікація:&#xa;   - Вирішіть, як будете публікувати роман: самостійно чи через видавництво, підготуйте всі необхідні матеріали." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1450" width="250" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-117" value="&lt;div&gt;1. Підготовка:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Зніміть старі двері.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Очистіть і вирівняйте отвір.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Встановлення коробки:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Вставте дверну коробку в отвір і вирівняйте її.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Закріпіть коробку клинками.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Закріплення коробки:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перевірте рівень коробки.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Закріпіть коробку шурупами.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Встановлення дверей:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Прикріпіть петлі до дверей і коробки.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Повісьте двері на петлі.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Регулювання:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Перевірте, чи двері відкриваються і закриваються правильно.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Зафіксуйте коробку, видаливши клинки.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Оздоблення:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- Встановіть обрамлення навколо дверей.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- За потреби зафарбуйте або залакуйте.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1940" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-118" value="&lt;div&gt;1. Визначте ведучу ногу: виберіть на якій почуваєтесь впевненіше&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Встаньте на скейтборд: Розмістіть ноги правильно та тримайте баланс.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Розгін: Відштовхніться задньою ногою та встаньте на дошку.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Зміна напрямку: Нахиліть тіло в бік повороту.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Гальмування: Зменшіть швидкість, нахиляючи задню частину дошки.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Рівновага: Тримайте рівновагу, розподіляючи вагу по дошці.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="1950" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="B3RDnDdU-C0EYkhqmuKv-119" value="&lt;div&gt;1. Підготуйте воду: Налийте гарячу воду з миючим засобом у раковину.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Мийте: Вимийте посуд губкою або щіткою.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Полощіть: Полоскайте під чистою водою&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;4. Сушіть: Сушіть посуд рушником або на сушарці.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="2198" width="305" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
